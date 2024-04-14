@@ -1,0 +1,6 @@
+Transformacja falkowa służy więc do analizy sygnałów niestacjonarnych, 
+ponieważ dostarcza informacji o czasowo-częstotliwościowych zmianach sygnałów. 
+Jest alternatywnym narzędziem do krótko-czasowej transformacji Fouriera.
+Transformacja falkowa służy więc do analizy sygnałów niestacjonarnych, 
+ponieważ dostarcza informacji o czasowo-częstotliwościowych zmianach sygnałów. 
+Jest alternatywnym narzędziem do krótko-czasowej transformacji Fouriera.

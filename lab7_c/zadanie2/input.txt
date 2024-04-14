@@ -1,0 +1,4 @@
+Transformacja Fouriera – pewien operator liniowy określany na pewnych przestrzeniach funkcyjnych, 
+elementami których mogą być funkcje n zmiennych rzeczywistych.
+Opisuje ona rozkład tych funkcji w bazie ortonormalnej funkcji trygonometrycznych – za pomocą iloczynu skalarnego funkcji. 
+Została nazwana na cześć Jeana Baptiste’a Josepha Fouriera.
